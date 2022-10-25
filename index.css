@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #F4F4F4;
+    
+   
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #6943FF;
+    align-items: center;    
+}
+.boxes{
+    display: flex;
+    flex-direction: column;
+    color: #5A537B;
+  
+}
+.length-box{
+    border: 0px solid black;
+    margin: 30px 20px 0px 20px;
+    background-color: white
+    
+}
+.volume-box{
+    border: 0px solid black;
+    margin: 30px 20px 0px 20px;
+    background-color: white
+   
+}
+.mass-box{
+    border: 0px solid black;
+    margin: 30px 20px 0px 20px;
+    background-color: white
+}
+#header{
+    color: white;
+}
+#convert-btn {
+    margin-bottom: 34px;
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    border: 2px solid white;
+    background-color: white;
+    width: 120px;
+    
+}
+#input-el {
+    width: 110px;
+    height: 100px;
+    border: 2px solid #B295FF;
+    background-color: #6943FF;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    line-height: 50px;
+    font-size: 50px;
+
+}
